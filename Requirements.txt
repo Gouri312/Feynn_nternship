@@ -1,0 +1,8 @@
+Matplotlib
+Numpy
+Seaborn
+Scipy
+Pandas
+Squarify
+Plotly
+Os
